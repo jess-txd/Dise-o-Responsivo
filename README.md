@@ -1,1 +1,1 @@
-# Dise-o-Responsivo
+Responsivo
